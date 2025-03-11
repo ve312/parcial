@@ -16,3 +16,7 @@
     max-width: 900px;
     margin: auto;
 }
+.bordeTop{
+    border-top: 1px solid #000;
+    padding-top: 20px;
+}
